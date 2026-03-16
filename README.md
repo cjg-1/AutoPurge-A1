@@ -8,3 +8,6 @@ Make sure to go through all the README files, as they are crucial to understand 
 
 
 Important: Please keep in mind that every item printed with Autopurge assistance is recommended to be at least 7 MM tall in order to prevent jams. 
+
+
+DISCLAIMER: Description is AI-assisted as well as part of the GCODE additions
